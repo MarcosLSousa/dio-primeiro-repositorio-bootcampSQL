@@ -1,2 +1,5 @@
-# dio-primeiro-repositorio-bootcampSQL
-Desafio de projeto sobre Git/Github
+# Dsafio de projeto sobre Git/Gihub da DIO
+Repositório criado para o desafio de projeto
+
+## Links úteis
+[Sintaxe basica Markdown](https://www.markdownguide.org/)
